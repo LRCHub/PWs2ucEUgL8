@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Liberation",
+  "base_artist": "Nulbarich",
+  "createdAt": "2026-03-02T06:47:38.443826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Liberation",
+      "artist": "OutKast feat. Cee-Lo",
+      "has_synced": true,
+      "path": "select/01_Liberation_OutKast_feat._Cee-Lo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Liberation (feat. Cee-Lo)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/02_Liberation_(feat._Cee-Lo)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Liberation",
+      "artist": "Village People",
+      "has_synced": true,
+      "path": "select/03_Liberation_Village_People.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Liberation",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/04_Liberation_Muse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Liberation",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/05_Liberation_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Glorious Liberation Of The People's Technocratic Republic Of Vinnland By The Combined Forces Of The United Territories Of Europa",
+      "artist": "Type O Negative",
+      "has_synced": true,
+      "path": "select/06_The_Glorious_Liberation_Of_The_People's_Technocratic_Republic_Of_Vinnland_By_The_Type_O_Negative.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Liberation Frequency",
+      "artist": "Refused",
+      "has_synced": true,
+      "path": "select/07_Liberation_Frequency_Refused.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Liberation Frequency",
+      "artist": "Refused",
+      "has_synced": false,
+      "path": "select/08_Liberation_Frequency_Refused.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rooftops (A Liberation Broadcast)",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/09_Rooftops_(A_Liberation_Broadcast)_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Liberation",
+      "artist": "Mike Oldfield",
+      "has_synced": true,
+      "path": "select/10_Liberation_Mike_Oldfield.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Liberation",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/11_Liberation_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Liberation - E Smoove 12'' Mix",
+      "artist": "Pet Shop Boys",
+      "has_synced": false,
+      "path": "select/12_Liberation_-_E_Smoove_12''_Mix_Pet_Shop_Boys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Liberation",
+      "artist": "Christina Aguilera",
+      "has_synced": true,
+      "path": "select/13_Liberation_Christina_Aguilera.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Liberation",
+      "artist": "Nulbarich",
+      "has_synced": false,
+      "path": "select/pl_01_Liberation_Nulbarich.txt"
+    }
+  ]
+}
